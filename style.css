@@ -1,9 +1,6 @@
 #board {
-	padding: 3em;
-}
-
-h1 {
-	text-align: center;
+    padding: 3em;
+    text-align: center;
 }
 
 .row > div {
@@ -16,8 +13,7 @@ h1 {
 .row {
 	margin: 0 auto;
 	width: 302px;
-	clear: left;
-	text-align: center;
+	clear: right;
 }
 
 .top {
